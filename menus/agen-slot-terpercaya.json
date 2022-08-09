@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle agen-slot-terpercaya",
+        "command": "agen-slot-terpercaya:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "agen-slot-terpercaya",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "agen-slot-terpercaya:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "agen-slot-terpercaya",
+  "main": "./lib/agen-slot-terpercaya",
+  "version": "1.0.0",
+  "description": "Cek Fakta Cek Fakta Agen Slot Terpercaya Tahun Ini 2022",
+  "keywords": ["situs judi slot online","agentotoplay","bandar slot online","agentotoplay slot","cq9 slot online","slot online","slot online","slot online cq9","agentotoplay","slot terbaik"],
+
+  "activationCommands": {
+    "atom-workspace": "agen-slot-terpercaya:toggle"
+  },
+  "repository": "https://github.com/fragmaticslot/agen-slot-terpercaya",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
