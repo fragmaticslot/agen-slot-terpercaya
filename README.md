@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Bocoran Info Cek Fakta Agen Slot Terpercaya Yang Lagi Gacor Sekarang](https://atom.io/packages/agen-slot-terpercaya)
-## :arrow_right: klik untuk [Mulai Main Dan Mendaftar](https://agentotoplay.net/) :cake: <<< 
-## :top: klik untuk [Daftar Sekarang](https://agentotoplay.net/) :star2: <<< 
-## :thumbsup: klik untuk [Dapatkan Promo Anda Hari Ini](https://agentotoplay.net/promo/) :100: <<< 
+## :arrow_right: klik untuk [Mulai Main Dan Mendaftar](https://golinkurl.github.io/) :cake: <<< 
+## :top: klik untuk [Daftar Sekarang](https://golinkurl.github.io/) :star2: <<< 
+## :thumbsup: klik untuk [Dapatkan Promo Anda Hari Ini](https://golinkurl.github.io/promo/) :100: <<< 
 
 ## Informasi Situs /Server Kami : 
 
